@@ -32,7 +32,7 @@ What's broken?
 --------------
 
 * The high score list is too narrow to display the score rows. I couldn't figure
-out how to set a width on the Text area. 
+out how to set a width on the Text field, or make it auto-resize.
 * You can't set your name. Although you can type into the text field, I wasn't
 able to figure out how to access the text from outside the swf. Since Spaceport
 has no api function yet for an editable text field, the swf is an neat way to
